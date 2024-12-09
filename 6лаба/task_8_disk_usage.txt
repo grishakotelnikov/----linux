@@ -1,0 +1,8 @@
+Файл.система   Размер Использовано  Дост Использовано% Cмонтировано в
+tmpfs            1,6G         3,0M  1,6G            1% /run
+/dev/nvme0n1p2   468G          69G  375G           16% /
+tmpfs            7,7G          90M  7,6G            2% /dev/shm
+tmpfs            5,0M         8,0K  5,0M            1% /run/lock
+efivarfs         268K         126K  138K           48% /sys/firmware/efi/efivars
+/dev/nvme0n1p1   1,1G          18M  1,1G            2% /boot/efi
+tmpfs            1,6G         172K  1,6G            1% /run/user/1000

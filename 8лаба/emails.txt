@@ -1,0 +1,4 @@
+username@website.com
+user@web-site.com
+invalid@website
+user@.com
